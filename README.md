@@ -1,6 +1,8 @@
 # xtqsh_r
 Quantile Regression Slope Homogeneity Test for Panel Data Use xtqsh (paneltests) With (In) R Software
 
+https://www.youtube.com/watch?v=DuzEGyvau7Y
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
